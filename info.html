@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Methodology – Melbourne Commute Explorer</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 24px; }
+    .wrap { max-width: 900px; margin: auto; }
+    h1 { font-size: 24px; }
+    h2 { margin-top: 24px; }
+    p { line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Methodology</h1>
+
+    <p>This project was originally documented in LegendKeeper and later exported as static HTML.</p>
+
+    <h2>Data sources</h2>
+    <ul>
+      <li>Suburb centroids and CBD distance from internal dataset</li>
+      <li>Public transport and driving commute times collected per suburb</li>
+    </ul>
+
+    <h2>Processing</h2>
+    <ul>
+      <li>Commute times averaged per suburb and transport mode</li>
+      <li>Rows without public transport commute data excluded</li>
+      <li>Suburbs filtered to CBD distance ≤ 20 km for charts</li>
+    </ul>
+
+    <h2>Visualisation</h2>
+    <ul>
+      <li>Charts rendered client-side using Chart.js</li>
+      <li>Line graphs ordered by CBD distance ascending</li>
+      <li>Hover tooltips show suburb names and values</li>
+    </ul>
+
+    <p>
+      <a href="index.html">← Back to explorer</a>
+    </p>
+  </div>
+</body>
+</html>
