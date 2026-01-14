@@ -107,7 +107,6 @@ fetch("./melbourne_housing_data.json")
   .then(r => r.json())
   .then(rows => {
 
-    // Filter suburbs 0–20 km and sort by distance
     const filtered = rows
       .filter(r => r.cbd_dist_km !== null && r.cbd_dist_km <= 20)
       .sort((a,b) => a.cbd_dist_km - b.cbd_dist_km);
@@ -124,23 +123,18 @@ fetch("./melbourne_housing_data.json")
     document.getElementById("downloadCsv").onclick = () =>
       downloadCsv("melbourne_commute_table.csv", filtered);
 
-    // Charts (explicit parsing=false fixes empty graph issue)
-    const ptData = filtered.map(r => ({ x: r.cbd_dist_km, y: r.pt_commute_min, suburb: r.suburb }));
-    const carData = filtered.map(r => ({ x: r.cbd_dist_km, y: r.car_commute_min, suburb: r.suburb }));
-
-    function makeLineChart(canvasId, data, yLabel) {
+    // Scatter charts (no connecting lines)
+    function makeScatter(canvasId, data, yLabel) {
       new Chart(document.getElementById(canvasId), {
-        type: "line",
+        type: "scatter",
         data: {
           datasets: [{
             data: data,
-            parsing: false,
-            fill: false,
-            tension: 0,
             pointRadius: 4
           }]
         },
         options: {
+          parsing: false,
           scales: {
             x: { title: { display: true, text: "CBD Distance (km)" } },
             y: { title: { display: true, text: yLabel } }
@@ -157,8 +151,11 @@ fetch("./melbourne_housing_data.json")
       });
     }
 
-    makeLineChart("ptChart", ptData, "PT Commute Time (min)");
-    makeLineChart("carChart", carData, "Car Commute Time (min)");
+    const ptData = filtered.map(r => ({ x: r.cbd_dist_km, y: r.pt_commute_min, suburb: r.suburb }));
+    const carData = filtered.map(r => ({ x: r.cbd_dist_km, y: r.car_commute_min, suburb: r.suburb }));
+
+    makeScatter("ptChart", ptData, "PT Commute Time (min)");
+    makeScatter("carChart", carData, "Car Commute Time (min)");
   });
 </script>
 
