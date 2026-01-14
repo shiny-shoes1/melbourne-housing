@@ -1,0 +1,3271 @@
+[
+  {
+    "suburb": "abbotsford",
+    "cbd_dist_km": 7.03,
+    "car_commute_min": 40.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 1250000.0
+  },
+  {
+    "suburb": "abeckett street",
+    "cbd_dist_km": 1.6,
+    "car_commute_min": 13.0,
+    "pt_commute_min": 12.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "aberfeldie",
+    "cbd_dist_km": 17.9,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": 1631000.0
+  },
+  {
+    "suburb": "ada",
+    "cbd_dist_km": 4.89,
+    "car_commute_min": 27.0,
+    "pt_commute_min": 10.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "aintree",
+    "cbd_dist_km": 37.52,
+    "car_commute_min": 90.0,
+    "pt_commute_min": 49.0,
+    "buy_house_price": 748000.0
+  },
+  {
+    "suburb": "airport west",
+    "cbd_dist_km": 20.36,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 945000.0
+  },
+  {
+    "suburb": "albanvale",
+    "cbd_dist_km": 31.11,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 49.0,
+    "buy_house_price": 595000.0
+  },
+  {
+    "suburb": "albert park",
+    "cbd_dist_km": 3.96,
+    "car_commute_min": 23.0,
+    "pt_commute_min": 17.0,
+    "buy_house_price": 2202500.0
+  },
+  {
+    "suburb": "albion",
+    "cbd_dist_km": 30.83,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 35.0,
+    "buy_house_price": 765000.0
+  },
+  {
+    "suburb": "alphington",
+    "cbd_dist_km": 11.9,
+    "car_commute_min": 56.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 2076000.0
+  },
+  {
+    "suburb": "altona",
+    "cbd_dist_km": 16.64,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": 1135000.0
+  },
+  {
+    "suburb": "altona east",
+    "cbd_dist_km": 16.64,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": 1025000.0
+  },
+  {
+    "suburb": "altona gate",
+    "cbd_dist_km": 12.62,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "altona meadows",
+    "cbd_dist_km": 21.04,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 44.0,
+    "buy_house_price": 690000.0
+  },
+  {
+    "suburb": "altona north",
+    "cbd_dist_km": 12.62,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": 880500.0
+  },
+  {
+    "suburb": "ardeer",
+    "cbd_dist_km": 29.56,
+    "car_commute_min": 51.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": 628500.0
+  },
+  {
+    "suburb": "armadale",
+    "cbd_dist_km": 10.05,
+    "car_commute_min": 38.0,
+    "pt_commute_min": 14.0,
+    "buy_house_price": 2585000.0
+  },
+  {
+    "suburb": "armadale north",
+    "cbd_dist_km": 10.05,
+    "car_commute_min": 38.0,
+    "pt_commute_min": 14.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "ascot vale",
+    "cbd_dist_km": 7.09,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": 1300500.0
+  },
+  {
+    "suburb": "ashburton",
+    "cbd_dist_km": 14.43,
+    "car_commute_min": 40.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": 1992500.0
+  },
+  {
+    "suburb": "ashwood",
+    "cbd_dist_km": 16.77,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 50.0,
+    "buy_house_price": 1455000.0
+  },
+  {
+    "suburb": "aspendale",
+    "cbd_dist_km": 33.36,
+    "car_commute_min": 81.0,
+    "pt_commute_min": 61.0,
+    "buy_house_price": 1332500.0
+  },
+  {
+    "suburb": "aspendale gardens",
+    "cbd_dist_km": 45.11,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 71.0,
+    "buy_house_price": 1117000.0
+  },
+  {
+    "suburb": "attwood",
+    "cbd_dist_km": 25.73,
+    "car_commute_min": 56.0,
+    "pt_commute_min": 61.0,
+    "buy_house_price": 950000.0
+  },
+  {
+    "suburb": "auburn",
+    "cbd_dist_km": 12.25,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 25.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "auburn south",
+    "cbd_dist_km": 12.25,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 25.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "avondale heights",
+    "cbd_dist_km": 13.06,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 936000.0
+  },
+  {
+    "suburb": "balaclava",
+    "cbd_dist_km": 8.04,
+    "car_commute_min": 36.0,
+    "pt_commute_min": 16.0,
+    "buy_house_price": 1500000.0
+  },
+  {
+    "suburb": "balwyn",
+    "cbd_dist_km": 17.69,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": 2985000.0
+  },
+  {
+    "suburb": "balwyn east",
+    "cbd_dist_km": 17.69,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "balwyn north",
+    "cbd_dist_km": 16.59,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": 2405000.0
+  },
+  {
+    "suburb": "bangholme",
+    "cbd_dist_km": 42.24,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 124.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "banyule",
+    "cbd_dist_km": 20.7,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 67.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "bayswater",
+    "cbd_dist_km": 38.13,
+    "car_commute_min": 81.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 871000.0
+  },
+  {
+    "suburb": "bayswater north",
+    "cbd_dist_km": 46.31,
+    "car_commute_min": 77.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 840500.0
+  },
+  {
+    "suburb": "beaumaris",
+    "cbd_dist_km": 23.18,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 63.0,
+    "buy_house_price": 2040000.0
+  },
+  {
+    "suburb": "bedford road",
+    "cbd_dist_km": 31.81,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 52.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "belgrave",
+    "cbd_dist_km": 47.86,
+    "car_commute_min": 85.0,
+    "pt_commute_min": 69.0,
+    "buy_house_price": 815000.0
+  },
+  {
+    "suburb": "belgrave heights",
+    "cbd_dist_km": 44.74,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 85.0,
+    "buy_house_price": 850000.0
+  },
+  {
+    "suburb": "belgrave south",
+    "cbd_dist_km": 44.8,
+    "car_commute_min": 81.0,
+    "pt_commute_min": 81.0,
+    "buy_house_price": 1125000.0
+  },
+  {
+    "suburb": "bellfield",
+    "cbd_dist_km": 15.23,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "bend of islands",
+    "cbd_dist_km": 47.0,
+    "car_commute_min": 108.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "bentleigh",
+    "cbd_dist_km": 18.96,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 1690000.0
+  },
+  {
+    "suburb": "bentleigh east",
+    "cbd_dist_km": 23.32,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": 1430000.0
+  },
+  {
+    "suburb": "berwick",
+    "cbd_dist_km": 45.65,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 71.0,
+    "buy_house_price": 855000.0
+  },
+  {
+    "suburb": "black rock",
+    "cbd_dist_km": 20.35,
+    "car_commute_min": 63.0,
+    "pt_commute_min": 50.0,
+    "buy_house_price": 2287500.0
+  },
+  {
+    "suburb": "black rock north",
+    "cbd_dist_km": 19.72,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "blackburn",
+    "cbd_dist_km": 29.98,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 1600000.0
+  },
+  {
+    "suburb": "blackburn north",
+    "cbd_dist_km": 23.9,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 44.0,
+    "buy_house_price": 1284500.0
+  },
+  {
+    "suburb": "blackburn south",
+    "cbd_dist_km": 27.95,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 55.0,
+    "buy_house_price": 1350000.0
+  },
+  {
+    "suburb": "bonnie brook",
+    "cbd_dist_km": 39.07,
+    "car_commute_min": 93.0,
+    "pt_commute_min": null,
+    "buy_house_price": 671500.0
+  },
+  {
+    "suburb": "booran road po",
+    "cbd_dist_km": 13.14,
+    "car_commute_min": 49.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "boronia",
+    "cbd_dist_km": 37.53,
+    "car_commute_min": 79.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 855000.0
+  },
+  {
+    "suburb": "box hill",
+    "cbd_dist_km": 21.44,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": 1680000.0
+  },
+  {
+    "suburb": "box hill central",
+    "cbd_dist_km": 20.83,
+    "car_commute_min": 63.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "box hill north",
+    "cbd_dist_km": 20.99,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1333000.0
+  },
+  {
+    "suburb": "box hill south",
+    "cbd_dist_km": 18.32,
+    "car_commute_min": 60.0,
+    "pt_commute_min": 40.0,
+    "buy_house_price": 1500000.0
+  },
+  {
+    "suburb": "braeside",
+    "cbd_dist_km": 31.97,
+    "car_commute_min": 79.0,
+    "pt_commute_min": 71.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "brandon park",
+    "cbd_dist_km": 23.72,
+    "car_commute_min": 49.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "braybrook",
+    "cbd_dist_km": 12.0,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 46.0,
+    "buy_house_price": 712000.0
+  },
+  {
+    "suburb": "brentford square",
+    "cbd_dist_km": 31.12,
+    "car_commute_min": 79.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "briar hill",
+    "cbd_dist_km": 25.68,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 1001000.0
+  },
+  {
+    "suburb": "brighton",
+    "cbd_dist_km": 12.56,
+    "car_commute_min": 49.0,
+    "pt_commute_min": 31.0,
+    "buy_house_price": 3200000.0
+  },
+  {
+    "suburb": "brighton east",
+    "cbd_dist_km": 13.34,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 2425000.0
+  },
+  {
+    "suburb": "brighton north",
+    "cbd_dist_km": 11.61,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 24.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "brighton road",
+    "cbd_dist_km": 8.11,
+    "car_commute_min": 40.0,
+    "pt_commute_min": 20.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "broadmeadows",
+    "cbd_dist_km": 22.53,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 44.0,
+    "buy_house_price": 560000.0
+  },
+  {
+    "suburb": "brookfield",
+    "cbd_dist_km": 46.72,
+    "car_commute_min": 97.0,
+    "pt_commute_min": 91.0,
+    "buy_house_price": 560000.0
+  },
+  {
+    "suburb": "brooklyn",
+    "cbd_dist_km": 12.62,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": 740000.0
+  },
+  {
+    "suburb": "brunswick",
+    "cbd_dist_km": 6.52,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": 1300000.0
+  },
+  {
+    "suburb": "brunswick east",
+    "cbd_dist_km": 7.09,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 32.0,
+    "buy_house_price": 1400000.0
+  },
+  {
+    "suburb": "brunswick lower",
+    "cbd_dist_km": 6.52,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "brunswick north",
+    "cbd_dist_km": 5.68,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "brunswick south",
+    "cbd_dist_km": 6.52,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "brunswick west",
+    "cbd_dist_km": 14.56,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 37.0,
+    "buy_house_price": 1275000.0
+  },
+  {
+    "suburb": "bulla",
+    "cbd_dist_km": 32.78,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 80.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "bulleen",
+    "cbd_dist_km": 17.57,
+    "car_commute_min": 65.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 1398000.0
+  },
+  {
+    "suburb": "bundoora",
+    "cbd_dist_km": 39.54,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 858500.0
+  },
+  {
+    "suburb": "burnley",
+    "cbd_dist_km": 6.47,
+    "car_commute_min": 27.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": 1582500.0
+  },
+  {
+    "suburb": "burnley north",
+    "cbd_dist_km": 6.47,
+    "car_commute_min": 27.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "burnside",
+    "cbd_dist_km": 27.87,
+    "car_commute_min": 84.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 752500.0
+  },
+  {
+    "suburb": "burnside heights",
+    "cbd_dist_km": 32.66,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 745000.0
+  },
+  {
+    "suburb": "burwood",
+    "cbd_dist_km": 15.96,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 1497500.0
+  },
+  {
+    "suburb": "burwood east",
+    "cbd_dist_km": 26.14,
+    "car_commute_min": 57.0,
+    "pt_commute_min": 63.0,
+    "buy_house_price": 1280000.0
+  },
+  {
+    "suburb": "cairnlea",
+    "cbd_dist_km": 29.67,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 936500.0
+  },
+  {
+    "suburb": "calder park",
+    "cbd_dist_km": 34.74,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 100.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "camberwell",
+    "cbd_dist_km": 14.51,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": 2538000.0
+  },
+  {
+    "suburb": "camberwell east",
+    "cbd_dist_km": 14.51,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "camberwell north",
+    "cbd_dist_km": 14.51,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "camberwell south",
+    "cbd_dist_km": 14.51,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "camberwell west",
+    "cbd_dist_km": 14.51,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "campbellfield",
+    "cbd_dist_km": 30.9,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 605000.0
+  },
+  {
+    "suburb": "canterbury",
+    "cbd_dist_km": 16.43,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 20.0,
+    "buy_house_price": 3252500.0
+  },
+  {
+    "suburb": "carlton",
+    "cbd_dist_km": 3.01,
+    "car_commute_min": 27.0,
+    "pt_commute_min": 20.0,
+    "buy_house_price": 1485000.0
+  },
+  {
+    "suburb": "carlton north",
+    "cbd_dist_km": 5.41,
+    "car_commute_min": 39.0,
+    "pt_commute_min": 27.0,
+    "buy_house_price": 1480000.0
+  },
+  {
+    "suburb": "carlton south",
+    "cbd_dist_km": 3.01,
+    "car_commute_min": 27.0,
+    "pt_commute_min": 20.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "carnegie",
+    "cbd_dist_km": 16.02,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 22.0,
+    "buy_house_price": 1675000.0
+  },
+  {
+    "suburb": "caroline springs",
+    "cbd_dist_km": 28.58,
+    "car_commute_min": 78.0,
+    "pt_commute_min": 52.0,
+    "buy_house_price": 730500.0
+  },
+  {
+    "suburb": "carrum",
+    "cbd_dist_km": 49.22,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 1030000.0
+  },
+  {
+    "suburb": "caulfield",
+    "cbd_dist_km": 12.47,
+    "car_commute_min": 46.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": 1786000.0
+  },
+  {
+    "suburb": "caulfield east",
+    "cbd_dist_km": 14.51,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 17.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "caulfield junction",
+    "cbd_dist_km": 10.62,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "caulfield north",
+    "cbd_dist_km": 10.41,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 35.0,
+    "buy_house_price": 2620000.0
+  },
+  {
+    "suburb": "caulfield south",
+    "cbd_dist_km": 13.0,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1945000.0
+  },
+  {
+    "suburb": "chadstone",
+    "cbd_dist_km": 17.23,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": 1290000.0
+  },
+  {
+    "suburb": "chadstone centre",
+    "cbd_dist_km": 17.23,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "chelsea",
+    "cbd_dist_km": 47.37,
+    "car_commute_min": 76.0,
+    "pt_commute_min": 56.0,
+    "buy_house_price": 1200000.0
+  },
+  {
+    "suburb": "chelsea heights",
+    "cbd_dist_km": 45.8,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 75.0,
+    "buy_house_price": 906500.0
+  },
+  {
+    "suburb": "cheltenham",
+    "cbd_dist_km": 27.6,
+    "car_commute_min": 74.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1342000.0
+  },
+  {
+    "suburb": "cheltenham east",
+    "cbd_dist_km": 27.6,
+    "car_commute_min": 74.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1150000.0
+  },
+  {
+    "suburb": "chirnside park",
+    "cbd_dist_km": 40.9,
+    "car_commute_min": 94.0,
+    "pt_commute_min": 81.0,
+    "buy_house_price": 900000.0
+  },
+  {
+    "suburb": "clarinda",
+    "cbd_dist_km": 24.22,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": 950000.0
+  },
+  {
+    "suburb": "clayton",
+    "cbd_dist_km": 23.48,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 44.0,
+    "buy_house_price": 1165000.0
+  },
+  {
+    "suburb": "clayton south",
+    "cbd_dist_km": 26.66,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 51.0,
+    "buy_house_price": 947500.0
+  },
+  {
+    "suburb": "clifton hill",
+    "cbd_dist_km": 8.62,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 25.0,
+    "buy_house_price": 1725000.0
+  },
+  {
+    "suburb": "cobblebank",
+    "cbd_dist_km": 41.54,
+    "car_commute_min": 91.0,
+    "pt_commute_min": 57.0,
+    "buy_house_price": 642500.0
+  },
+  {
+    "suburb": "coburg",
+    "cbd_dist_km": 17.05,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 31.0,
+    "buy_house_price": 1180000.0
+  },
+  {
+    "suburb": "coburg north",
+    "cbd_dist_km": 18.13,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": 980000.0
+  },
+  {
+    "suburb": "cocoroc",
+    "cbd_dist_km": 38.83,
+    "car_commute_min": 71.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "coldstream",
+    "cbd_dist_km": 48.6,
+    "car_commute_min": 109.0,
+    "pt_commute_min": 85.0,
+    "buy_house_price": 805000.0
+  },
+  {
+    "suburb": "collingwood",
+    "cbd_dist_km": 4.77,
+    "car_commute_min": 34.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 1225000.0
+  },
+  {
+    "suburb": "collins street east",
+    "cbd_dist_km": 28.38,
+    "car_commute_min": 10.0,
+    "pt_commute_min": 8.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "collins street west",
+    "cbd_dist_km": 1.16,
+    "car_commute_min": 10.0,
+    "pt_commute_min": 8.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "coolaroo",
+    "cbd_dist_km": 25.46,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 50.0,
+    "buy_house_price": 530500.0
+  },
+  {
+    "suburb": "craigieburn",
+    "cbd_dist_km": 37.33,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 70.0,
+    "buy_house_price": 650000.0
+  },
+  {
+    "suburb": "cranbourne",
+    "cbd_dist_km": 49.65,
+    "car_commute_min": 93.0,
+    "pt_commute_min": 67.0,
+    "buy_house_price": 655000.0
+  },
+  {
+    "suburb": "cranbourne north",
+    "cbd_dist_km": 45.96,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 710000.0
+  },
+  {
+    "suburb": "cremorne",
+    "cbd_dist_km": 4.25,
+    "car_commute_min": 28.0,
+    "pt_commute_min": 9.0,
+    "buy_house_price": 1335000.0
+  },
+  {
+    "suburb": "croydon",
+    "cbd_dist_km": 35.35,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 51.0,
+    "buy_house_price": 916000.0
+  },
+  {
+    "suburb": "croydon hills",
+    "cbd_dist_km": 35.97,
+    "car_commute_min": 91.0,
+    "pt_commute_min": 76.0,
+    "buy_house_price": 1180000.0
+  },
+  {
+    "suburb": "croydon north",
+    "cbd_dist_km": 37.59,
+    "car_commute_min": 85.0,
+    "pt_commute_min": 78.0,
+    "buy_house_price": 1075000.0
+  },
+  {
+    "suburb": "croydon south",
+    "cbd_dist_km": 34.09,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 885500.0
+  },
+  {
+    "suburb": "dallas",
+    "cbd_dist_km": 23.24,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 49.0,
+    "buy_house_price": 512500.0
+  },
+  {
+    "suburb": "dandenong",
+    "cbd_dist_km": 34.63,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 56.0,
+    "buy_house_price": 687500.0
+  },
+  {
+    "suburb": "dandenong north",
+    "cbd_dist_km": 34.15,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 78.0,
+    "buy_house_price": 721000.0
+  },
+  {
+    "suburb": "dandenong south",
+    "cbd_dist_km": 41.24,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 77.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "deanside",
+    "cbd_dist_km": 31.84,
+    "car_commute_min": 84.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 640000.0
+  },
+  {
+    "suburb": "deepdene",
+    "cbd_dist_km": 13.32,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 44.0,
+    "buy_house_price": 3050000.0
+  },
+  {
+    "suburb": "deer park",
+    "cbd_dist_km": 23.93,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": 640000.0
+  },
+  {
+    "suburb": "deer park east",
+    "cbd_dist_km": 23.93,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "deer park north",
+    "cbd_dist_km": 23.93,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "delahey",
+    "cbd_dist_km": 32.04,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 59.0,
+    "buy_house_price": 639000.0
+  },
+  {
+    "suburb": "derrimut",
+    "cbd_dist_km": 21.96,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 52.0,
+    "buy_house_price": 739000.0
+  },
+  {
+    "suburb": "diamond creek",
+    "cbd_dist_km": 46.47,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 983500.0
+  },
+  {
+    "suburb": "diggers rest",
+    "cbd_dist_km": 41.13,
+    "car_commute_min": 77.0,
+    "pt_commute_min": 46.0,
+    "buy_house_price": 657500.0
+  },
+  {
+    "suburb": "dingley village",
+    "cbd_dist_km": 29.2,
+    "car_commute_min": 76.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 1090000.0
+  },
+  {
+    "suburb": "docklands",
+    "cbd_dist_km": 2.2,
+    "car_commute_min": 20.0,
+    "pt_commute_min": 15.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "doncaster",
+    "cbd_dist_km": 20.72,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 51.0,
+    "buy_house_price": 1550000.0
+  },
+  {
+    "suburb": "doncaster east",
+    "cbd_dist_km": 24.6,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 50.0,
+    "buy_house_price": 1630000.0
+  },
+  {
+    "suburb": "donvale",
+    "cbd_dist_km": 25.73,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": 1438500.0
+  },
+  {
+    "suburb": "doveton",
+    "cbd_dist_km": 35.56,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 570000.0
+  },
+  {
+    "suburb": "dunearn",
+    "cbd_dist_km": 32.94,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 74.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "eaglemont",
+    "cbd_dist_km": 17.0,
+    "car_commute_min": 63.0,
+    "pt_commute_min": 39.0,
+    "buy_house_price": 2528500.0
+  },
+  {
+    "suburb": "east melbourne",
+    "cbd_dist_km": 3.33,
+    "car_commute_min": 26.0,
+    "pt_commute_min": 17.0,
+    "buy_house_price": 3363000.0
+  },
+  {
+    "suburb": "edithvale",
+    "cbd_dist_km": 45.79,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 1280000.0
+  },
+  {
+    "suburb": "elsternwick",
+    "cbd_dist_km": 10.9,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 25.0,
+    "buy_house_price": 2165000.0
+  },
+  {
+    "suburb": "eltham",
+    "cbd_dist_km": 26.45,
+    "car_commute_min": 91.0,
+    "pt_commute_min": 61.0,
+    "buy_house_price": 1190000.0
+  },
+  {
+    "suburb": "eltham north",
+    "cbd_dist_km": 29.89,
+    "car_commute_min": 85.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 1250000.0
+  },
+  {
+    "suburb": "elwood",
+    "cbd_dist_km": 8.92,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 2200000.0
+  },
+  {
+    "suburb": "endeavour hills",
+    "cbd_dist_km": 35.33,
+    "car_commute_min": 65.0,
+    "pt_commute_min": 82.0,
+    "buy_house_price": 795000.0
+  },
+  {
+    "suburb": "epping",
+    "cbd_dist_km": 40.06,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 71.0,
+    "buy_house_price": 668000.0
+  },
+  {
+    "suburb": "essendon",
+    "cbd_dist_km": 15.59,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": 1760000.0
+  },
+  {
+    "suburb": "essendon fields",
+    "cbd_dist_km": 19.79,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "essendon north",
+    "cbd_dist_km": 18.76,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 1296000.0
+  },
+  {
+    "suburb": "essendon west",
+    "cbd_dist_km": 18.2,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 31.0,
+    "buy_house_price": 1165000.0
+  },
+  {
+    "suburb": "eumemmerring",
+    "cbd_dist_km": 39.31,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 71.0,
+    "buy_house_price": 665000.0
+  },
+  {
+    "suburb": "exford",
+    "cbd_dist_km": 48.94,
+    "car_commute_min": 101.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "fairfield",
+    "cbd_dist_km": 10.52,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 1585000.0
+  },
+  {
+    "suburb": "fawkner",
+    "cbd_dist_km": 20.55,
+    "car_commute_min": 56.0,
+    "pt_commute_min": 49.0,
+    "buy_house_price": 770000.0
+  },
+  {
+    "suburb": "ferntree gully",
+    "cbd_dist_km": 35.15,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 890000.0
+  },
+  {
+    "suburb": "ferny creek",
+    "cbd_dist_km": 42.92,
+    "car_commute_min": 88.0,
+    "pt_commute_min": 87.0,
+    "buy_house_price": 890000.0
+  },
+  {
+    "suburb": "fieldstone",
+    "cbd_dist_km": 36.15,
+    "car_commute_min": 87.0,
+    "pt_commute_min": 65.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "fitzroy",
+    "cbd_dist_km": 3.98,
+    "car_commute_min": 35.0,
+    "pt_commute_min": 17.0,
+    "buy_house_price": 1530000.0
+  },
+  {
+    "suburb": "fitzroy north",
+    "cbd_dist_km": 5.74,
+    "car_commute_min": 45.0,
+    "pt_commute_min": 24.0,
+    "buy_house_price": 1600000.0
+  },
+  {
+    "suburb": "flemington",
+    "cbd_dist_km": 10.4,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 24.0,
+    "buy_house_price": 1027500.0
+  },
+  {
+    "suburb": "flinders lane",
+    "cbd_dist_km": 1.06,
+    "car_commute_min": 10.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "footscray",
+    "cbd_dist_km": 7.87,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 23.0,
+    "buy_house_price": 902000.0
+  },
+  {
+    "suburb": "forest hill",
+    "cbd_dist_km": 30.0,
+    "car_commute_min": 65.0,
+    "pt_commute_min": 46.0,
+    "buy_house_price": 1250500.0
+  },
+  {
+    "suburb": "fountain gate",
+    "cbd_dist_km": 43.11,
+    "car_commute_min": 78.0,
+    "pt_commute_min": 67.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "fraser rise",
+    "cbd_dist_km": 36.27,
+    "car_commute_min": 88.0,
+    "pt_commute_min": 67.0,
+    "buy_house_price": 716000.0
+  },
+  {
+    "suburb": "gardenvale",
+    "cbd_dist_km": 10.99,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 24.0,
+    "buy_house_price": 2300000.0
+  },
+  {
+    "suburb": "gladstone park",
+    "cbd_dist_km": 23.68,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 64.0,
+    "buy_house_price": 710000.0
+  },
+  {
+    "suburb": "glen huntly",
+    "cbd_dist_km": 15.93,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 21.0,
+    "buy_house_price": 1735500.0
+  },
+  {
+    "suburb": "glen iris",
+    "cbd_dist_km": 12.52,
+    "car_commute_min": 35.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 2500000.0
+  },
+  {
+    "suburb": "glen waverley",
+    "cbd_dist_km": 25.57,
+    "car_commute_min": 57.0,
+    "pt_commute_min": 56.0,
+    "buy_house_price": 1660000.0
+  },
+  {
+    "suburb": "glenferrie south",
+    "cbd_dist_km": 8.72,
+    "car_commute_min": 36.0,
+    "pt_commute_min": 25.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "glengala",
+    "cbd_dist_km": 18.87,
+    "car_commute_min": 60.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "glenroy",
+    "cbd_dist_km": 18.57,
+    "car_commute_min": 45.0,
+    "pt_commute_min": 35.0,
+    "buy_house_price": 795000.0
+  },
+  {
+    "suburb": "gowanbrae",
+    "cbd_dist_km": 22.3,
+    "car_commute_min": 49.0,
+    "pt_commute_min": 75.0,
+    "buy_house_price": 865000.0
+  },
+  {
+    "suburb": "grangefields",
+    "cbd_dist_km": 38.76,
+    "car_commute_min": 89.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "greensborough",
+    "cbd_dist_km": 24.36,
+    "car_commute_min": 76.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 970000.0
+  },
+  {
+    "suburb": "greenvale",
+    "cbd_dist_km": 29.14,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 845000.0
+  },
+  {
+    "suburb": "greythorn",
+    "cbd_dist_km": 20.81,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "hadfield",
+    "cbd_dist_km": 18.4,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 50.0,
+    "buy_house_price": 860000.0
+  },
+  {
+    "suburb": "hallam",
+    "cbd_dist_km": 40.44,
+    "car_commute_min": 74.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 714000.0
+  },
+  {
+    "suburb": "hampton",
+    "cbd_dist_km": 14.93,
+    "car_commute_min": 57.0,
+    "pt_commute_min": 37.0,
+    "buy_house_price": 2370000.0
+  },
+  {
+    "suburb": "hampton east",
+    "cbd_dist_km": 16.49,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1475000.0
+  },
+  {
+    "suburb": "hampton north",
+    "cbd_dist_km": 14.93,
+    "car_commute_min": 57.0,
+    "pt_commute_min": 37.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "hampton park",
+    "cbd_dist_km": 44.68,
+    "car_commute_min": 78.0,
+    "pt_commute_min": 67.0,
+    "buy_house_price": 644500.0
+  },
+  {
+    "suburb": "harkaway",
+    "cbd_dist_km": 45.22,
+    "car_commute_min": 81.0,
+    "pt_commute_min": 136.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "harkness",
+    "cbd_dist_km": 47.26,
+    "car_commute_min": 106.0,
+    "pt_commute_min": 77.0,
+    "buy_house_price": 580000.0
+  },
+  {
+    "suburb": "hawksburn",
+    "cbd_dist_km": 9.61,
+    "car_commute_min": 34.0,
+    "pt_commute_min": 9.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "hawthorn",
+    "cbd_dist_km": 9.26,
+    "car_commute_min": 39.0,
+    "pt_commute_min": 22.0,
+    "buy_house_price": 2720000.0
+  },
+  {
+    "suburb": "hawthorn east",
+    "cbd_dist_km": 11.97,
+    "car_commute_min": 37.0,
+    "pt_commute_min": 27.0,
+    "buy_house_price": 2750000.0
+  },
+  {
+    "suburb": "hawthorn north",
+    "cbd_dist_km": 9.26,
+    "car_commute_min": 39.0,
+    "pt_commute_min": 22.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "hawthorn west",
+    "cbd_dist_km": 9.26,
+    "car_commute_min": 39.0,
+    "pt_commute_min": 22.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "heatherton",
+    "cbd_dist_km": 25.09,
+    "car_commute_min": 69.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 1150000.0
+  },
+  {
+    "suburb": "heathmont",
+    "cbd_dist_km": 41.86,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 45.0,
+    "buy_house_price": 1068000.0
+  },
+  {
+    "suburb": "heidelberg",
+    "cbd_dist_km": 17.01,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": 1437500.0
+  },
+  {
+    "suburb": "heidelberg heights",
+    "cbd_dist_km": 19.73,
+    "car_commute_min": 74.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": 1002000.0
+  },
+  {
+    "suburb": "heidelberg rgh",
+    "cbd_dist_km": 17.01,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "heidelberg west",
+    "cbd_dist_km": 16.7,
+    "car_commute_min": 74.0,
+    "pt_commute_min": 46.0,
+    "buy_house_price": 750000.0
+  },
+  {
+    "suburb": "highett",
+    "cbd_dist_km": 17.62,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 39.0,
+    "buy_house_price": 1455000.0
+  },
+  {
+    "suburb": "hillside",
+    "cbd_dist_km": 32.59,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "hopetoun gardens",
+    "cbd_dist_km": 12.0,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 40.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "hoppers crossing",
+    "cbd_dist_km": 30.45,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 55.0,
+    "buy_house_price": 615000.0
+  },
+  {
+    "suburb": "hotham hill",
+    "cbd_dist_km": 4.64,
+    "car_commute_min": 29.0,
+    "pt_commute_min": 23.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "hughesdale",
+    "cbd_dist_km": 18.25,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 31.0,
+    "buy_house_price": 1400000.0
+  },
+  {
+    "suburb": "huntingdale",
+    "cbd_dist_km": 20.8,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 40.0,
+    "buy_house_price": 1195000.0
+  },
+  {
+    "suburb": "ivanhoe",
+    "cbd_dist_km": 13.65,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": 1732500.0
+  },
+  {
+    "suburb": "ivanhoe east",
+    "cbd_dist_km": 15.13,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": 2406500.0
+  },
+  {
+    "suburb": "ivanhoe north",
+    "cbd_dist_km": 13.65,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "jacana",
+    "cbd_dist_km": 20.94,
+    "car_commute_min": 49.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": 586500.0
+  },
+  {
+    "suburb": "johnstones hill",
+    "cbd_dist_km": 32.59,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "jordanville",
+    "cbd_dist_km": 19.27,
+    "car_commute_min": 196.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "kangaroo ground",
+    "cbd_dist_km": 48.72,
+    "car_commute_min": 103.0,
+    "pt_commute_min": 105.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "kealba",
+    "cbd_dist_km": 27.09,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 67.0,
+    "buy_house_price": 670000.0
+  },
+  {
+    "suburb": "keilor",
+    "cbd_dist_km": 24.88,
+    "car_commute_min": 56.0,
+    "pt_commute_min": 65.0,
+    "buy_house_price": 1132500.0
+  },
+  {
+    "suburb": "keilor downs",
+    "cbd_dist_km": 27.94,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 57.0,
+    "buy_house_price": 770000.0
+  },
+  {
+    "suburb": "keilor east",
+    "cbd_dist_km": 21.82,
+    "car_commute_min": 46.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": 980000.0
+  },
+  {
+    "suburb": "keilor lodge",
+    "cbd_dist_km": 28.29,
+    "car_commute_min": 63.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 920000.0
+  },
+  {
+    "suburb": "keilor north",
+    "cbd_dist_km": 32.89,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 109.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "keilor park",
+    "cbd_dist_km": 22.97,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 64.0,
+    "buy_house_price": 795000.0
+  },
+  {
+    "suburb": "kensington",
+    "cbd_dist_km": 5.44,
+    "car_commute_min": 35.0,
+    "pt_commute_min": 18.0,
+    "buy_house_price": 1040000.0
+  },
+  {
+    "suburb": "kerrimuir",
+    "cbd_dist_km": 21.53,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "kew",
+    "cbd_dist_km": 9.6,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 32.0,
+    "buy_house_price": 2905000.0
+  },
+  {
+    "suburb": "kew east",
+    "cbd_dist_km": 12.52,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": 2200000.0
+  },
+  {
+    "suburb": "keysborough",
+    "cbd_dist_km": 36.93,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 63.0,
+    "buy_house_price": 913500.0
+  },
+  {
+    "suburb": "kilsyth",
+    "cbd_dist_km": 38.12,
+    "car_commute_min": 91.0,
+    "pt_commute_min": 74.0,
+    "buy_house_price": 810000.0
+  },
+  {
+    "suburb": "kilsyth south",
+    "cbd_dist_km": 46.69,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 1045000.0
+  },
+  {
+    "suburb": "kings park",
+    "cbd_dist_km": 31.96,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 600000.0
+  },
+  {
+    "suburb": "kingsbury",
+    "cbd_dist_km": 19.45,
+    "car_commute_min": 88.0,
+    "pt_commute_min": 62.0,
+    "buy_house_price": 785000.0
+  },
+  {
+    "suburb": "kingsville",
+    "cbd_dist_km": 10.8,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 32.0,
+    "buy_house_price": 1200000.0
+  },
+  {
+    "suburb": "knox city centre",
+    "cbd_dist_km": 37.85,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 79.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "knoxfield",
+    "cbd_dist_km": 31.4,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 70.0,
+    "buy_house_price": 950000.0
+  },
+  {
+    "suburb": "kooyong",
+    "cbd_dist_km": 11.06,
+    "car_commute_min": 34.0,
+    "pt_commute_min": 25.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "kurunjang",
+    "cbd_dist_km": 44.75,
+    "car_commute_min": 101.0,
+    "pt_commute_min": 79.0,
+    "buy_house_price": 520000.0
+  },
+  {
+    "suburb": "lalor",
+    "cbd_dist_km": 36.04,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": 680000.0
+  },
+  {
+    "suburb": "laverton",
+    "cbd_dist_km": 23.23,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 585000.0
+  },
+  {
+    "suburb": "laverton north",
+    "cbd_dist_km": 17.45,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "law courts",
+    "cbd_dist_km": 37.63,
+    "car_commute_min": 92.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "lilydale",
+    "cbd_dist_km": 43.92,
+    "car_commute_min": 103.0,
+    "pt_commute_min": 69.0,
+    "buy_house_price": 926000.0
+  },
+  {
+    "suburb": "little lonsdale street",
+    "cbd_dist_km": 1.5,
+    "car_commute_min": 14.0,
+    "pt_commute_min": 7.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "little river",
+    "cbd_dist_km": 48.81,
+    "car_commute_min": 74.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "lower plenty",
+    "cbd_dist_km": 23.54,
+    "car_commute_min": 85.0,
+    "pt_commute_min": 81.0,
+    "buy_house_price": 1319000.0
+  },
+  {
+    "suburb": "lynbrook",
+    "cbd_dist_km": 43.23,
+    "car_commute_min": 76.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 814500.0
+  },
+  {
+    "suburb": "lyndhurst",
+    "cbd_dist_km": 45.85,
+    "car_commute_min": 76.0,
+    "pt_commute_min": 65.0,
+    "buy_house_price": 905000.0
+  },
+  {
+    "suburb": "lysterfield",
+    "cbd_dist_km": 36.39,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 90.0,
+    "buy_house_price": 1305000.0
+  },
+  {
+    "suburb": "lysterfield south",
+    "cbd_dist_km": 39.76,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 106.0,
+    "buy_house_price": 1925500.0
+  },
+  {
+    "suburb": "macleod",
+    "cbd_dist_km": 21.5,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1150000.0
+  },
+  {
+    "suburb": "macleod west",
+    "cbd_dist_km": 21.5,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "maidstone",
+    "cbd_dist_km": 10.89,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": 895000.0
+  },
+  {
+    "suburb": "malvern",
+    "cbd_dist_km": 10.96,
+    "car_commute_min": 32.0,
+    "pt_commute_min": 24.0,
+    "buy_house_price": 3000000.0
+  },
+  {
+    "suburb": "malvern east",
+    "cbd_dist_km": 14.68,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": 2175000.0
+  },
+  {
+    "suburb": "malvern north",
+    "cbd_dist_km": 10.96,
+    "car_commute_min": 32.0,
+    "pt_commute_min": 24.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "mambourin",
+    "cbd_dist_km": 38.05,
+    "car_commute_min": 90.0,
+    "pt_commute_min": 69.0,
+    "buy_house_price": 635000.0
+  },
+  {
+    "suburb": "manor lakes",
+    "cbd_dist_km": 38.66,
+    "car_commute_min": 93.0,
+    "pt_commute_min": 55.0,
+    "buy_house_price": 645000.0
+  },
+  {
+    "suburb": "maribyrnong",
+    "cbd_dist_km": 9.69,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 31.0,
+    "buy_house_price": 1130000.0
+  },
+  {
+    "suburb": "mckinnon",
+    "cbd_dist_km": 15.14,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": 2000000.0
+  },
+  {
+    "suburb": "meadow heights",
+    "cbd_dist_km": 25.81,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 561000.0
+  },
+  {
+    "suburb": "melbourne",
+    "cbd_dist_km": 1.57,
+    "car_commute_min": 15.0,
+    "pt_commute_min": 3.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "melbourne airport",
+    "cbd_dist_km": 26.7,
+    "car_commute_min": 45.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "melbourne university",
+    "cbd_dist_km": 2.72,
+    "car_commute_min": 21.0,
+    "pt_commute_min": 15.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "melton",
+    "cbd_dist_km": 44.0,
+    "car_commute_min": 98.0,
+    "pt_commute_min": 67.0,
+    "buy_house_price": 470500.0
+  },
+  {
+    "suburb": "melton south",
+    "cbd_dist_km": 44.0,
+    "car_commute_min": 95.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 495000.0
+  },
+  {
+    "suburb": "melton west",
+    "cbd_dist_km": 47.04,
+    "car_commute_min": 98.0,
+    "pt_commute_min": 75.0,
+    "buy_house_price": 550000.0
+  },
+  {
+    "suburb": "mentone",
+    "cbd_dist_km": 28.4,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1337500.0
+  },
+  {
+    "suburb": "mentone east",
+    "cbd_dist_km": 28.4,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "merlynston",
+    "cbd_dist_km": 23.71,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "mernda",
+    "cbd_dist_km": 49.15,
+    "car_commute_min": 98.0,
+    "pt_commute_min": 76.0,
+    "buy_house_price": 670000.0
+  },
+  {
+    "suburb": "mickleham",
+    "cbd_dist_km": 47.19,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 92.0,
+    "buy_house_price": 680000.0
+  },
+  {
+    "suburb": "middle camberwell",
+    "cbd_dist_km": 14.51,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "middle park",
+    "cbd_dist_km": 4.54,
+    "car_commute_min": 26.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 2473000.0
+  },
+  {
+    "suburb": "mill park",
+    "cbd_dist_km": 39.97,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 780000.0
+  },
+  {
+    "suburb": "mitcham",
+    "cbd_dist_km": 28.13,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": 1210000.0
+  },
+  {
+    "suburb": "mitcham north",
+    "cbd_dist_km": 28.13,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "monash university",
+    "cbd_dist_km": 23.76,
+    "car_commute_min": 51.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "mont albert",
+    "cbd_dist_km": 19.81,
+    "car_commute_min": 57.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": 2384000.0
+  },
+  {
+    "suburb": "mont albert north",
+    "cbd_dist_km": 20.72,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 51.0,
+    "buy_house_price": 1715000.0
+  },
+  {
+    "suburb": "montmorency",
+    "cbd_dist_km": 24.83,
+    "car_commute_min": 90.0,
+    "pt_commute_min": 52.0,
+    "buy_house_price": 1120000.0
+  },
+  {
+    "suburb": "moonee ponds",
+    "cbd_dist_km": 7.96,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 25.0,
+    "buy_house_price": 1527500.0
+  },
+  {
+    "suburb": "moonee vale",
+    "cbd_dist_km": 18.97,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 50.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "moorabbin",
+    "cbd_dist_km": 25.13,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": 1300000.0
+  },
+  {
+    "suburb": "moorabbin airport",
+    "cbd_dist_km": 27.88,
+    "car_commute_min": 76.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "moorabbin east",
+    "cbd_dist_km": 25.13,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "mooroolbark",
+    "cbd_dist_km": 40.72,
+    "car_commute_min": 103.0,
+    "pt_commute_min": 53.0,
+    "buy_house_price": 821000.0
+  },
+  {
+    "suburb": "mordialloc",
+    "cbd_dist_km": 30.91,
+    "car_commute_min": 83.0,
+    "pt_commute_min": 61.0,
+    "buy_house_price": 1385000.0
+  },
+  {
+    "suburb": "moreland",
+    "cbd_dist_km": 17.12,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "moreland west",
+    "cbd_dist_km": 17.12,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "mount cottrell",
+    "cbd_dist_km": 33.66,
+    "car_commute_min": 82.0,
+    "pt_commute_min": null,
+    "buy_house_price": 602000.0
+  },
+  {
+    "suburb": "mount waverley",
+    "cbd_dist_km": 22.56,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 41.0,
+    "buy_house_price": 1600000.0
+  },
+  {
+    "suburb": "mountain gate",
+    "cbd_dist_km": 34.33,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "mulgrave",
+    "cbd_dist_km": 25.17,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 1040000.0
+  },
+  {
+    "suburb": "murrumbeena",
+    "cbd_dist_km": 20.6,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 1641500.0
+  },
+  {
+    "suburb": "narre warren",
+    "cbd_dist_km": 43.09,
+    "car_commute_min": 81.0,
+    "pt_commute_min": 59.0,
+    "buy_house_price": 727000.0
+  },
+  {
+    "suburb": "narre warren east",
+    "cbd_dist_km": 43.9,
+    "car_commute_min": 77.0,
+    "pt_commute_min": 99.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "narre warren north",
+    "cbd_dist_km": 40.27,
+    "car_commute_min": 74.0,
+    "pt_commute_min": 85.0,
+    "buy_house_price": 1565000.0
+  },
+  {
+    "suburb": "narre warren south",
+    "cbd_dist_km": 46.13,
+    "car_commute_min": 88.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 820000.0
+  },
+  {
+    "suburb": "newport",
+    "cbd_dist_km": 10.53,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 20.0,
+    "buy_house_price": 1275000.0
+  },
+  {
+    "suburb": "niddrie",
+    "cbd_dist_km": 20.15,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 63.0,
+    "buy_house_price": 1189000.0
+  },
+  {
+    "suburb": "niddrie north",
+    "cbd_dist_km": 20.15,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 63.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "noble park",
+    "cbd_dist_km": 34.54,
+    "car_commute_min": 60.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": 732000.0
+  },
+  {
+    "suburb": "noble park north",
+    "cbd_dist_km": 30.05,
+    "car_commute_min": 55.0,
+    "pt_commute_min": 81.0,
+    "buy_house_price": 737500.0
+  },
+  {
+    "suburb": "north melbourne",
+    "cbd_dist_km": 3.33,
+    "car_commute_min": 23.0,
+    "pt_commute_min": 21.0,
+    "buy_house_price": 1220000.0
+  },
+  {
+    "suburb": "north warrandyte",
+    "cbd_dist_km": 37.36,
+    "car_commute_min": 93.0,
+    "pt_commute_min": 89.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "northcote",
+    "cbd_dist_km": 9.88,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": 1605000.0
+  },
+  {
+    "suburb": "northcote south",
+    "cbd_dist_km": 9.88,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "northland centre",
+    "cbd_dist_km": 15.57,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 62.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "notting hill",
+    "cbd_dist_km": 23.02,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 52.0,
+    "buy_house_price": 1106000.0
+  },
+  {
+    "suburb": "nunawading",
+    "cbd_dist_km": 31.82,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 37.0,
+    "buy_house_price": 1189500.0
+  },
+  {
+    "suburb": "oak park",
+    "cbd_dist_km": 17.39,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 34.0,
+    "buy_house_price": 1065000.0
+  },
+  {
+    "suburb": "oaklands junction",
+    "cbd_dist_km": 41.59,
+    "car_commute_min": 74.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "oakleigh",
+    "cbd_dist_km": 19.08,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 1336500.0
+  },
+  {
+    "suburb": "oakleigh east",
+    "cbd_dist_km": 20.77,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 39.0,
+    "buy_house_price": 1150000.0
+  },
+  {
+    "suburb": "oakleigh south",
+    "cbd_dist_km": 22.35,
+    "car_commute_min": 62.0,
+    "pt_commute_min": 39.0,
+    "buy_house_price": 1130000.0
+  },
+  {
+    "suburb": "olinda",
+    "cbd_dist_km": 48.56,
+    "car_commute_min": 95.0,
+    "pt_commute_min": 100.0,
+    "buy_house_price": 935000.0
+  },
+  {
+    "suburb": "ormond",
+    "cbd_dist_km": 17.33,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 1795000.0
+  },
+  {
+    "suburb": "panton hill",
+    "cbd_dist_km": 48.16,
+    "car_commute_min": 109.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "park orchards",
+    "cbd_dist_km": 31.16,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 61.0,
+    "buy_house_price": 1740000.0
+  },
+  {
+    "suburb": "parkdale",
+    "cbd_dist_km": 29.3,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1352000.0
+  },
+  {
+    "suburb": "parkville",
+    "cbd_dist_km": 6.27,
+    "car_commute_min": 38.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 2477000.0
+  },
+  {
+    "suburb": "pascoe vale",
+    "cbd_dist_km": 17.48,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 40.0,
+    "buy_house_price": 1025000.0
+  },
+  {
+    "suburb": "pascoe vale south",
+    "cbd_dist_km": 13.9,
+    "car_commute_min": 35.0,
+    "pt_commute_min": 35.0,
+    "buy_house_price": 1140000.0
+  },
+  {
+    "suburb": "patterson",
+    "cbd_dist_km": 47.09,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 84.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "patterson lakes",
+    "cbd_dist_km": 47.09,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 84.0,
+    "buy_house_price": 1361000.0
+  },
+  {
+    "suburb": "pine grove",
+    "cbd_dist_km": 17.72,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 39.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "pinewood",
+    "cbd_dist_km": 22.06,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 59.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "plenty",
+    "cbd_dist_km": 45.85,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 1760000.0
+  },
+  {
+    "suburb": "plumpton",
+    "cbd_dist_km": 43.94,
+    "car_commute_min": 80.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "point cook",
+    "cbd_dist_km": 25.11,
+    "car_commute_min": 65.0,
+    "pt_commute_min": 56.0,
+    "buy_house_price": 770500.0
+  },
+  {
+    "suburb": "port melbourne",
+    "cbd_dist_km": 4.65,
+    "car_commute_min": 26.0,
+    "pt_commute_min": 28.0,
+    "buy_house_price": 1745000.0
+  },
+  {
+    "suburb": "prahran",
+    "cbd_dist_km": 8.18,
+    "car_commute_min": 37.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": 1750000.0
+  },
+  {
+    "suburb": "prahran east",
+    "cbd_dist_km": 8.18,
+    "car_commute_min": 37.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "preston",
+    "cbd_dist_km": 10.75,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": 1150000.0
+  },
+  {
+    "suburb": "preston lower",
+    "cbd_dist_km": 10.75,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "preston south",
+    "cbd_dist_km": 10.75,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "preston west",
+    "cbd_dist_km": 10.75,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 36.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "princes hill",
+    "cbd_dist_km": 5.4,
+    "car_commute_min": 40.0,
+    "pt_commute_min": 27.0,
+    "buy_house_price": 1620000.0
+  },
+  {
+    "suburb": "quandong",
+    "cbd_dist_km": 49.38,
+    "car_commute_min": 108.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "ravenhall",
+    "cbd_dist_km": 25.67,
+    "car_commute_min": 69.0,
+    "pt_commute_min": 60.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "research",
+    "cbd_dist_km": 30.71,
+    "car_commute_min": 97.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 1030000.0
+  },
+  {
+    "suburb": "reservoir",
+    "cbd_dist_km": 13.93,
+    "car_commute_min": 83.0,
+    "pt_commute_min": 37.0,
+    "buy_house_price": 870000.0
+  },
+  {
+    "suburb": "richmond",
+    "cbd_dist_km": 7.29,
+    "car_commute_min": 29.0,
+    "pt_commute_min": 18.0,
+    "buy_house_price": 1377500.0
+  },
+  {
+    "suburb": "richmond east",
+    "cbd_dist_km": 7.29,
+    "car_commute_min": 29.0,
+    "pt_commute_min": 18.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "richmond north",
+    "cbd_dist_km": 7.29,
+    "car_commute_min": 29.0,
+    "pt_commute_min": 18.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "richmond south",
+    "cbd_dist_km": 7.29,
+    "car_commute_min": 29.0,
+    "pt_commute_min": 18.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "ringwood",
+    "cbd_dist_km": 30.58,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 45.0,
+    "buy_house_price": 999500.0
+  },
+  {
+    "suburb": "ringwood east",
+    "cbd_dist_km": 32.08,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 51.0,
+    "buy_house_price": 1000000.0
+  },
+  {
+    "suburb": "ringwood north",
+    "cbd_dist_km": 31.96,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 1217500.0
+  },
+  {
+    "suburb": "ripponlea",
+    "cbd_dist_km": 8.41,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 17.0,
+    "buy_house_price": 1457500.0
+  },
+  {
+    "suburb": "rockbank",
+    "cbd_dist_km": 33.63,
+    "car_commute_min": 84.0,
+    "pt_commute_min": 35.0,
+    "buy_house_price": 624500.0
+  },
+  {
+    "suburb": "rosanna",
+    "cbd_dist_km": 19.21,
+    "car_commute_min": 77.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": 1298000.0
+  },
+  {
+    "suburb": "rowville",
+    "cbd_dist_km": 30.66,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 1090000.0
+  },
+  {
+    "suburb": "roxburgh park",
+    "cbd_dist_km": 29.74,
+    "car_commute_min": 83.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 632500.0
+  },
+  {
+    "suburb": "royal melbourne hospital",
+    "cbd_dist_km": 3.0,
+    "car_commute_min": 24.0,
+    "pt_commute_min": 14.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "sandhurst",
+    "cbd_dist_km": 46.57,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 105.0,
+    "buy_house_price": 1075000.0
+  },
+  {
+    "suburb": "sandhurst east",
+    "cbd_dist_km": 46.57,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 105.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "sandringham",
+    "cbd_dist_km": 17.78,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": 2100000.0
+  },
+  {
+    "suburb": "sargood",
+    "cbd_dist_km": 8.61,
+    "car_commute_min": 32.0,
+    "pt_commute_min": 20.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "sassafras",
+    "cbd_dist_km": 45.21,
+    "car_commute_min": 91.0,
+    "pt_commute_min": 87.0,
+    "buy_house_price": 959000.0
+  },
+  {
+    "suburb": "scoresby",
+    "cbd_dist_km": 31.02,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 87.0,
+    "buy_house_price": 955500.0
+  },
+  {
+    "suburb": "scoresby bc",
+    "cbd_dist_km": 31.02,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 87.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "seabrook",
+    "cbd_dist_km": 22.86,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 51.0,
+    "buy_house_price": 741500.0
+  },
+  {
+    "suburb": "seaholme",
+    "cbd_dist_km": 16.32,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 34.0,
+    "buy_house_price": 1525000.0
+  },
+  {
+    "suburb": "seddon",
+    "cbd_dist_km": 10.42,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 23.0,
+    "buy_house_price": 1100000.0
+  },
+  {
+    "suburb": "seddon west",
+    "cbd_dist_km": 10.42,
+    "car_commute_min": 43.0,
+    "pt_commute_min": 23.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "selby",
+    "cbd_dist_km": 48.56,
+    "car_commute_min": 86.0,
+    "pt_commute_min": 78.0,
+    "buy_house_price": 837500.0
+  },
+  {
+    "suburb": "sherbrooke",
+    "cbd_dist_km": 46.1,
+    "car_commute_min": 92.0,
+    "pt_commute_min": 101.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "somerton",
+    "cbd_dist_km": 35.74,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 61.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "south kingsville",
+    "cbd_dist_km": 10.1,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": 1250000.0
+  },
+  {
+    "suburb": "south melbourne",
+    "cbd_dist_km": 2.5,
+    "car_commute_min": 20.0,
+    "pt_commute_min": 18.0,
+    "buy_house_price": 1630000.0
+  },
+  {
+    "suburb": "south morang",
+    "cbd_dist_km": 44.68,
+    "car_commute_min": 88.0,
+    "pt_commute_min": 75.0,
+    "buy_house_price": 725000.0
+  },
+  {
+    "suburb": "south wharf",
+    "cbd_dist_km": 2.24,
+    "car_commute_min": 19.0,
+    "pt_commute_min": 14.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "south yarra",
+    "cbd_dist_km": 5.23,
+    "car_commute_min": 30.0,
+    "pt_commute_min": 11.0,
+    "buy_house_price": 2390000.0
+  },
+  {
+    "suburb": "southbank",
+    "cbd_dist_km": 1.53,
+    "car_commute_min": 14.0,
+    "pt_commute_min": 11.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "southland centre",
+    "cbd_dist_km": 18.92,
+    "car_commute_min": 71.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "spotswood",
+    "cbd_dist_km": 9.3,
+    "car_commute_min": 40.0,
+    "pt_commute_min": 20.0,
+    "buy_house_price": 1130000.0
+  },
+  {
+    "suburb": "springvale",
+    "cbd_dist_km": 28.55,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 34.0,
+    "buy_house_price": 870000.0
+  },
+  {
+    "suburb": "springvale south",
+    "cbd_dist_km": 37.52,
+    "car_commute_min": 68.0,
+    "pt_commute_min": 49.0,
+    "buy_house_price": 800000.0
+  },
+  {
+    "suburb": "st albans",
+    "cbd_dist_km": 27.98,
+    "car_commute_min": 58.0,
+    "pt_commute_min": 32.0,
+    "buy_house_price": 640500.0
+  },
+  {
+    "suburb": "st helena",
+    "cbd_dist_km": 45.58,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 72.0,
+    "buy_house_price": 1175000.0
+  },
+  {
+    "suburb": "st kilda",
+    "cbd_dist_km": 6.51,
+    "car_commute_min": 32.0,
+    "pt_commute_min": 27.0,
+    "buy_house_price": 1480500.0
+  },
+  {
+    "suburb": "st kilda east",
+    "cbd_dist_km": 8.36,
+    "car_commute_min": 36.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 1623000.0
+  },
+  {
+    "suburb": "st kilda road",
+    "cbd_dist_km": 4.26,
+    "car_commute_min": 23.0,
+    "pt_commute_min": 13.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "st kilda road central",
+    "cbd_dist_km": 4.26,
+    "car_commute_min": 23.0,
+    "pt_commute_min": 13.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "st kilda road melbourne",
+    "cbd_dist_km": 4.26,
+    "car_commute_min": 23.0,
+    "pt_commute_min": 13.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "st kilda south",
+    "cbd_dist_km": 6.51,
+    "car_commute_min": 32.0,
+    "pt_commute_min": 27.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "st kilda west",
+    "cbd_dist_km": 5.77,
+    "car_commute_min": 30.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": 2855000.0
+  },
+  {
+    "suburb": "stradbroke park",
+    "cbd_dist_km": 17.23,
+    "car_commute_min": 56.0,
+    "pt_commute_min": 43.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "strathmore",
+    "cbd_dist_km": 15.8,
+    "car_commute_min": 36.0,
+    "pt_commute_min": 32.0,
+    "buy_house_price": 1416500.0
+  },
+  {
+    "suburb": "strathmore heights",
+    "cbd_dist_km": 19.26,
+    "car_commute_min": 44.0,
+    "pt_commute_min": 45.0,
+    "buy_house_price": 1056000.0
+  },
+  {
+    "suburb": "strathtulloh",
+    "cbd_dist_km": 41.64,
+    "car_commute_min": 93.0,
+    "pt_commute_min": null,
+    "buy_house_price": 642500.0
+  },
+  {
+    "suburb": "sunbury",
+    "cbd_dist_km": 45.15,
+    "car_commute_min": 84.0,
+    "pt_commute_min": 52.0,
+    "buy_house_price": 660000.0
+  },
+  {
+    "suburb": "sunshine",
+    "cbd_dist_km": 18.17,
+    "car_commute_min": 69.0,
+    "pt_commute_min": 34.0,
+    "buy_house_price": 797500.0
+  },
+  {
+    "suburb": "sunshine north",
+    "cbd_dist_km": 26.25,
+    "car_commute_min": 51.0,
+    "pt_commute_min": 51.0,
+    "buy_house_price": 721500.0
+  },
+  {
+    "suburb": "sunshine west",
+    "cbd_dist_km": 17.54,
+    "car_commute_min": 56.0,
+    "pt_commute_min": 40.0,
+    "buy_house_price": 700000.0
+  },
+  {
+    "suburb": "surrey hills",
+    "cbd_dist_km": 18.06,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": 2390000.0
+  },
+  {
+    "suburb": "surrey hills north",
+    "cbd_dist_km": 18.06,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "surrey hills south",
+    "cbd_dist_km": 18.06,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 29.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "sydenham",
+    "cbd_dist_km": 31.41,
+    "car_commute_min": 75.0,
+    "pt_commute_min": 54.0,
+    "buy_house_price": 741500.0
+  },
+  {
+    "suburb": "syndal",
+    "cbd_dist_km": 23.62,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 42.0,
+    "buy_house_price": 1955000.0
+  },
+  {
+    "suburb": "tarneit",
+    "cbd_dist_km": 28.14,
+    "car_commute_min": 87.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 653500.0
+  },
+  {
+    "suburb": "taylors hill",
+    "cbd_dist_km": 36.08,
+    "car_commute_min": 78.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 906500.0
+  },
+  {
+    "suburb": "taylors lakes",
+    "cbd_dist_km": 29.29,
+    "car_commute_min": 67.0,
+    "pt_commute_min": 47.0,
+    "buy_house_price": 925000.0
+  },
+  {
+    "suburb": "tecoma",
+    "cbd_dist_km": 44.18,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 838000.0
+  },
+  {
+    "suburb": "templestowe",
+    "cbd_dist_km": 21.72,
+    "car_commute_min": 76.0,
+    "pt_commute_min": 64.0,
+    "buy_house_price": 1685000.0
+  },
+  {
+    "suburb": "templestowe lower",
+    "cbd_dist_km": 19.87,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 59.0,
+    "buy_house_price": 1410000.0
+  },
+  {
+    "suburb": "the basin",
+    "cbd_dist_km": 41.18,
+    "car_commute_min": 86.0,
+    "pt_commute_min": 73.0,
+    "buy_house_price": 850000.0
+  },
+  {
+    "suburb": "thomastown",
+    "cbd_dist_km": 33.34,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 56.0,
+    "buy_house_price": 691000.0
+  },
+  {
+    "suburb": "thornbury",
+    "cbd_dist_km": 10.97,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 37.0,
+    "buy_house_price": 1382000.0
+  },
+  {
+    "suburb": "thornhill park",
+    "cbd_dist_km": 39.96,
+    "car_commute_min": 92.0,
+    "pt_commute_min": null,
+    "buy_house_price": 610000.0
+  },
+  {
+    "suburb": "toorak",
+    "cbd_dist_km": 8.01,
+    "car_commute_min": 35.0,
+    "pt_commute_min": 23.0,
+    "buy_house_price": 5325000.0
+  },
+  {
+    "suburb": "tottenham",
+    "cbd_dist_km": 13.82,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 39.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "travancore",
+    "cbd_dist_km": 6.29,
+    "car_commute_min": 40.0,
+    "pt_commute_min": 33.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "tremont",
+    "cbd_dist_km": 38.85,
+    "car_commute_min": 84.0,
+    "pt_commute_min": 75.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "truganina",
+    "cbd_dist_km": 20.73,
+    "car_commute_min": 60.0,
+    "pt_commute_min": 84.0,
+    "buy_house_price": 647000.0
+  },
+  {
+    "suburb": "tullamarine",
+    "cbd_dist_km": 24.21,
+    "car_commute_min": 46.0,
+    "pt_commute_min": 57.0,
+    "buy_house_price": 720000.0
+  },
+  {
+    "suburb": "university of melbourne",
+    "cbd_dist_km": 2.72,
+    "car_commute_min": 21.0,
+    "pt_commute_min": 15.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "upper ferntree gully",
+    "cbd_dist_km": 40.01,
+    "car_commute_min": 82.0,
+    "pt_commute_min": 60.0,
+    "buy_house_price": 852000.0
+  },
+  {
+    "suburb": "upwey",
+    "cbd_dist_km": 43.14,
+    "car_commute_min": 78.0,
+    "pt_commute_min": 62.0,
+    "buy_house_price": 880000.0
+  },
+  {
+    "suburb": "vermont",
+    "cbd_dist_km": 32.03,
+    "car_commute_min": 72.0,
+    "pt_commute_min": 58.0,
+    "buy_house_price": 1235000.0
+  },
+  {
+    "suburb": "vermont south",
+    "cbd_dist_km": 29.02,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 71.0,
+    "buy_house_price": 1533000.0
+  },
+  {
+    "suburb": "viewbank",
+    "cbd_dist_km": 20.92,
+    "car_commute_min": 80.0,
+    "pt_commute_min": 59.0,
+    "buy_house_price": 1195000.0
+  },
+  {
+    "suburb": "wantirna",
+    "cbd_dist_km": 38.89,
+    "car_commute_min": 65.0,
+    "pt_commute_min": 62.0,
+    "buy_house_price": 1150000.0
+  },
+  {
+    "suburb": "wantirna south",
+    "cbd_dist_km": 32.53,
+    "car_commute_min": 61.0,
+    "pt_commute_min": 64.0,
+    "buy_house_price": 1322000.0
+  },
+  {
+    "suburb": "warrandyte",
+    "cbd_dist_km": 33.32,
+    "car_commute_min": 84.0,
+    "pt_commute_min": 81.0,
+    "buy_house_price": 1262000.0
+  },
+  {
+    "suburb": "warrandyte south",
+    "cbd_dist_km": 36.42,
+    "car_commute_min": 91.0,
+    "pt_commute_min": 95.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "warranwood",
+    "cbd_dist_km": 34.88,
+    "car_commute_min": 89.0,
+    "pt_commute_min": 75.0,
+    "buy_house_price": 1197500.0
+  },
+  {
+    "suburb": "watergardens",
+    "cbd_dist_km": 29.79,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 49.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "waterways",
+    "cbd_dist_km": 43.01,
+    "car_commute_min": 66.0,
+    "pt_commute_min": 85.0,
+    "buy_house_price": 1690000.0
+  },
+  {
+    "suburb": "watsonia",
+    "cbd_dist_km": 23.08,
+    "car_commute_min": 89.0,
+    "pt_commute_min": 40.0,
+    "buy_house_price": 875500.0
+  },
+  {
+    "suburb": "watsonia north",
+    "cbd_dist_km": 24.06,
+    "car_commute_min": 78.0,
+    "pt_commute_min": 66.0,
+    "buy_house_price": 930000.0
+  },
+  {
+    "suburb": "watsons creek",
+    "cbd_dist_km": 48.16,
+    "car_commute_min": 109.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "wattle park",
+    "cbd_dist_km": 17.56,
+    "car_commute_min": 52.0,
+    "pt_commute_min": 44.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "wattletree road po",
+    "cbd_dist_km": 12.63,
+    "car_commute_min": 42.0,
+    "pt_commute_min": 27.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "waverley gardens",
+    "cbd_dist_km": 28.41,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 69.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "weir views",
+    "cbd_dist_km": 45.09,
+    "car_commute_min": 97.0,
+    "pt_commute_min": 87.0,
+    "buy_house_price": 560000.0
+  },
+  {
+    "suburb": "were street po",
+    "cbd_dist_km": 24.75,
+    "car_commute_min": 53.0,
+    "pt_commute_min": 44.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "werribee",
+    "cbd_dist_km": 30.94,
+    "car_commute_min": 70.0,
+    "pt_commute_min": 45.0,
+    "buy_house_price": 610000.0
+  },
+  {
+    "suburb": "werribee south",
+    "cbd_dist_km": 34.89,
+    "car_commute_min": 64.0,
+    "pt_commute_min": 65.0,
+    "buy_house_price": 930000.0
+  },
+  {
+    "suburb": "west footscray",
+    "cbd_dist_km": 11.91,
+    "car_commute_min": 48.0,
+    "pt_commute_min": 31.0,
+    "buy_house_price": 915000.0
+  },
+  {
+    "suburb": "west melbourne",
+    "cbd_dist_km": 8.46,
+    "car_commute_min": 33.0,
+    "pt_commute_min": 38.0,
+    "buy_house_price": 1215000.0
+  },
+  {
+    "suburb": "westmeadows",
+    "cbd_dist_km": 26.39,
+    "car_commute_min": 56.0,
+    "pt_commute_min": 50.0,
+    "buy_house_price": 727500.0
+  },
+  {
+    "suburb": "wheelers hill",
+    "cbd_dist_km": 25.95,
+    "car_commute_min": 54.0,
+    "pt_commute_min": 55.0,
+    "buy_house_price": 1509000.0
+  },
+  {
+    "suburb": "wildwood",
+    "cbd_dist_km": 42.11,
+    "car_commute_min": 71.0,
+    "pt_commute_min": null,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "williams landing",
+    "cbd_dist_km": 23.86,
+    "car_commute_min": 59.0,
+    "pt_commute_min": 48.0,
+    "buy_house_price": 799500.0
+  },
+  {
+    "suburb": "williamstown",
+    "cbd_dist_km": 12.44,
+    "car_commute_min": 47.0,
+    "pt_commute_min": 30.0,
+    "buy_house_price": 1580000.0
+  },
+  {
+    "suburb": "williamstown north",
+    "cbd_dist_km": 16.02,
+    "car_commute_min": 50.0,
+    "pt_commute_min": 46.0,
+    "buy_house_price": 1275000.0
+  },
+  {
+    "suburb": "windsor",
+    "cbd_dist_km": 6.78,
+    "car_commute_min": 30.0,
+    "pt_commute_min": 14.0,
+    "buy_house_price": 1460000.0
+  },
+  {
+    "suburb": "wollert",
+    "cbd_dist_km": 43.15,
+    "car_commute_min": 88.0,
+    "pt_commute_min": 75.0,
+    "buy_house_price": 705000.0
+  },
+  {
+    "suburb": "wonga park",
+    "cbd_dist_km": 39.47,
+    "car_commute_min": 94.0,
+    "pt_commute_min": 92.0,
+    "buy_house_price": 1265000.0
+  },
+  {
+    "suburb": "wyndham vale",
+    "cbd_dist_km": 35.66,
+    "car_commute_min": 85.0,
+    "pt_commute_min": 68.0,
+    "buy_house_price": 580000.0
+  },
+  {
+    "suburb": "yallambie",
+    "cbd_dist_km": 22.83,
+    "car_commute_min": 86.0,
+    "pt_commute_min": 71.0,
+    "buy_house_price": 942000.0
+  },
+  {
+    "suburb": "yarrambat",
+    "cbd_dist_km": 49.24,
+    "car_commute_min": 88.0,
+    "pt_commute_min": 76.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "yarraville",
+    "cbd_dist_km": 9.2,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": 1100000.0
+  },
+  {
+    "suburb": "yarraville west",
+    "cbd_dist_km": 9.2,
+    "car_commute_min": 41.0,
+    "pt_commute_min": 26.0,
+    "buy_house_price": null
+  },
+  {
+    "suburb": "yuroke",
+    "cbd_dist_km": 34.6,
+    "car_commute_min": 73.0,
+    "pt_commute_min": 93.0,
+    "buy_house_price": null
+  }
+]
