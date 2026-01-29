@@ -17,7 +17,7 @@
     .wrap { max-width: 1100px; margin: auto; }
     h1 { margin: 0 0 8px 0; font-size: 24px; }
     h2 { margin-top: 32px; font-size: 18px; }
-    p { line-height: 1.4; }
+    p { line-height: 1.4; white-space: pre-line; }
     .meta { font-size: 14px; opacity: 0.85; }
     table { width: 100%; margin-top: 12px; }
     .actions { margin-top: 12px; }
@@ -38,14 +38,22 @@
   <div class="wrap">
     <strong>Melbourne Commute Explorer</strong> ·
     <a href="index.html">Home</a> |
-    <a href="info.html">Assumptions</a>
+    <a href="info.html">Data Info</a> ·
+    Built by <strong>Max Murphy</strong> ·
+    <a href="https://www.linkedin.com/in/maxmurphy-pro/" target="_blank">LinkedIn</a>
   </div>
 </header>
 
 <main>
   <div class="wrap">
     <h1>Melbourne Commute Explorer</h1>
-    <p class="meta">Sort and explore suburbs by commute time and distance.</p>
+    <p class="meta">
+Melbourne suburbs by commute time and distance. 
+
+Create a shortlist of suburbs based on commute time as opposed to physical distance. 
+
+Find suburbs you may not have considered, like Glen Huntley (16kms from CBD but ~20 minute commute on public transport).
+    </p>
 
     <h2>Public Transport commute vs CBD distance (0–20 km)</h2>
     <canvas id="ptChart" height="360"></canvas>
@@ -111,7 +119,6 @@ fetch("./melbourne_housing_data.json")
       .filter(r => r.cbd_dist_km !== null && r.cbd_dist_km <= 20)
       .sort((a,b) => a.cbd_dist_km - b.cbd_dist_km);
 
-    // Table
     const tbody = document.querySelector("#housingTable tbody");
     filtered.forEach(r => {
       const tr = document.createElement("tr");
@@ -123,16 +130,10 @@ fetch("./melbourne_housing_data.json")
     document.getElementById("downloadCsv").onclick = () =>
       downloadCsv("melbourne_commute_table.csv", filtered);
 
-    // Scatter charts (no connecting lines)
     function makeScatter(canvasId, data, yLabel) {
       new Chart(document.getElementById(canvasId), {
         type: "scatter",
-        data: {
-          datasets: [{
-            data: data,
-            pointRadius: 4
-          }]
-        },
+        data: { datasets: [{ data: data, pointRadius: 4 }] },
         options: {
           parsing: false,
           scales: {
